@@ -4,7 +4,7 @@
 
 - <b>Windows Server 2022 Home Lab </b>
   - [Active Directory Setup & Configuration](https://github.com/)
-- <b>Microsoft Office 365 Project</b>
+- <b>Microsoft Office 365 Administration Lab</b>
   - [Office 365 Deployment & Configuration](https://github.com/)
 
 
